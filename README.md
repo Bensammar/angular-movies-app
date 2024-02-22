@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MoviesApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.0.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+# angular-movies-app
+this is the repository for movies appication 
+>>>>>>> 5026e69c2ac46f5fc312a9a5f77f9311ff47fa58
